@@ -1,4 +1,5 @@
 # Exercise 1: Data Frame Practice
+#Changes were made
 
 # Install devtools package: allows installations from GitHub
 install.packages('devtools')
